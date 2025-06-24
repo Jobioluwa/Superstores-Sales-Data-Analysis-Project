@@ -2,7 +2,8 @@
 # Customer Segmentation Analysis: Volume vs Value Insights
 
 ## Project Overview
-This project analyzes customer behavior across three key segments (Consumer, Corporate, Home Office) to understand the relationship between transaction frequency and revenue generation. The analysis reveals critical insights about customer value that challenge conventional assumptions about high-frequency customers.
+This project analyzes customer behavior across three key segments (Consumer, Corporate, Home Office) to understand the relationship between transaction frequency and revenue generation.
+The analysis reveals critical insights about customer value that challenge conventional assumptions about high-frequency customers.
 
 ## Key Findings
 - **Consumer Segment**: Highest customer count and transaction frequency, but lower per-transaction value
