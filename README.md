@@ -6,10 +6,10 @@ This project analyzes customer behavior across three key segments (Consumer, Cor
 The analysis reveals critical insights about customer value that challenge conventional assumptions about high-frequency customers.
 
 ## Key Findings
-- **Consumer Segment**: Highest customer count and transaction frequency, but lower per-transaction value
-- **Home Office Segment**: Smallest customer base with lowest transaction frequency, yet highest total sales per customer
-- **Corporate Segment**: Mid-range performance across all metrics
-- **Critical Insight**: Transaction frequency is not a reliable predictor of customer value
+- Consumer Segment: Highest customer count and transaction frequency, but lower per-transaction value
+- Home Office Segment: Smallest customer base with lowest transaction frequency, yet highest total sales per customer
+- Corporate Segment: Mid-range performance across all metrics
+- Critical Insight: Transaction frequency is not a reliable predictor of customer value
 
 ## Business Impact
 This analysis addresses the core business problem of optimizing customer acquisition and retention strategies by identifying which segments drive actual revenue versus transaction volume.
