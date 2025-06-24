@@ -21,7 +21,7 @@ This analysis addresses the core business problem of optimizing customer acquisi
 - Jupyter Notebook for analysis
 
 ## Files Structure
-- `customer_segmentation_analysis.ipynb` - Main analysis notebook
+- `Superstores-Sales-Data-Analysis-Project.ipynb` - Main analysis notebook
 - `README.md` - Project documentation
 
 ## How to Run
